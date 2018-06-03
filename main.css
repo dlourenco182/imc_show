@@ -18,7 +18,7 @@ html {
 .container {
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
-    grid-template-rows: 10% 350px 2fr 200px;
+    grid-template-rows: 5em 21em;
     grid-column-gap: 10px;
     grid-template-areas: "empty empty empty" "info main result";
     width: 100%;
